@@ -1,0 +1,16 @@
+input {
+    display: block;
+}
+
+table {
+    border: 1px solid black;
+}
+
+th {
+    padding-right: 25px;
+}
+
+body {
+    width: 500px;
+    margin: 0 auto;
+}
